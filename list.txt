@@ -14,6 +14,16 @@
 ! /REGEX/:block access to domains matching the specified regular expression.
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
+! Mi Router Beacon
+||qq.com
+||miwifi.com
+||sohu.com
+||163.com
+||taobao.com
+||baidu.com
+||meituan.com
+
+! Other Ads
 ||adsmotic.de
 ||adnxs.com
 ||ervg1.net
